@@ -1,1 +1,6 @@
-[{"title":"t","body":"b"},{"title":"Course ideas","body":""},{"title":"Test","body":"This is a test"}]
+[
+  { "title": "t", "body": "b" },
+  { "title": "Course ideas", "body": "" },
+  { "title": "Test", "body": "This is a test" },
+  { "title": "New", "body": "something" }
+]
